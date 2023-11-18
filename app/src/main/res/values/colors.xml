@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_200">#f9f8f6</color>
+    <color name="purple_500">#f9f8f6</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <!--  Main Color  -->
+    <color name="main">#9a4a3a</color>
+
+    <color name="earth_16">#299a4a3a</color>
+    <color name="earth_04">#669a4a3a</color>
+
+    <!-- black -->
+    <color name="black">#FF000000</color>
+
+    <!-- Black opacity 10% -->
+    <color name="black_10">#1A000000</color>
+    <color name="black_10_hex">#e0dfdd</color>
+    <color name="black_zero">#272727</color>
+
+    <!-- black opacity  10% -->
+    <color name="black_opacity_10">#1A000000</color>
+    <!-- black opacity  40% -->
+    <color name="black_opacity_40">#66000000</color>
+    <!-- black opacity  60% -->
+    <color name="black_opacity_60">#99000000</color>
+
+    <!--  shimmer grey  -->
+    <color name="shimmer_grey">#CBCBCB</color>
+
+    <!--  shimmer grey 40%  -->
+    <color name="shimmer_grey_40">#66CBCBCB</color>
+
+
+    <!--  dark  -->
+    <color name="dark">#101a28</color>
+    3
+    <!--  grey  -->
+    <color name="light_grey_zero">#f0ede8</color>
+    <color name="light_grey">#e8efee</color>
+    <color name="light_grey_Two">#e7e3dc</color>
+    <color name="warm_grey">#808080</color>
+    <color name="warm_grey_two">#999999</color>
+    <color name="steel">#868e96</color>
+    <color name="sub_marker">#cccccc</color>
+    <color name="text_sim_dark">#384657</color>
+
+    <!-- white  -->
+    <color name="white_zero">#f9f8f6</color>
+
+    <!--  brown  -->
+    <color name="greyish_brown">#46413d</color>
+
+    <color name="active_marker">#222a52</color>
+
+    <color name="blue_lagoon">#3A8A9A</color>
+    <color name="dark_green">#5A9A3A</color>
+
+    <color name="transparent">#00FFFFFF</color>
+
+    <color name="red_favorite">#FF003B</color>
+
+    <color name="dark_grey_blue">#384657</color>
+
+    <color name="orange_jordanpass">#f5a561</color>
+</resources>

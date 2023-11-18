@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href></href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <name>Point 1</name>
+    <description><![CDATA[<img src="https://vid.alarabiya.net/images/2021/07/20/ef4cabe3-b903-4d67-a48f-18615a736585/ef4cabe3-b903-4d67-a48f-18615a736585.jpg?crop=4:3&width=1200" height="200" width="auto" /><br><br>]]></description>
+    <styleUrl>#icon-1899-0288D1</styleUrl>
+    <ExtendedData>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://doc-00-6s-mymaps.googleusercontent.com/untrusted/hostedimage/7rcfg5upga4u9ufro98u4qsq70/6m9elub5uroghkif1vrkrshlsg/1700132762250/AzZLvGYMHIpgBdDEvdoOPRLIHDCyX4Oo/11506214918263242002/5AJ9UNGpJr3Pfr0BRme1A-Xw69xuyPAXwGY9n5pZJumr9ZNOQTzvPtNpXzREvg_jnpQoA39gYIJS6xER7QxK0ryza8Ke5eGjbDBb-ddWL-VEVU1tvy5nZTRO0ix13GM5M2BoTz-PQ0trew_DEKbT2aUEZ3r--6HYx17lDnB5NBziM1OB63rw3Y5nwAVJBRzPNdU7zN8za5HOHGPXmeS4DnsOGthrKIxmGl1lQIbssIKheX3N5ezs?session=0&fife]]></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>
+        35.9164551,31.9715445,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Point 2</name>
+    <description><![CDATA[<img src="https://cdn.alweb.com/thumbs/travel/article/fit710x532/%D8%A3%D8%B4%D9%87%D8%B1-%D8%B4%D9%88%D8%A7%D8%B1%D8%B9-%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%85%D8%A9-%D8%B9%D9%85%D8%A7%D9%86-%D9%84%D8%A7-%D8%AA%D9%81%D9%88%D8%AA-%D8%B2%D9%8A%D8%A7%D8%B1%D8%AA%D9%87%D8%A7.jpg" height="200" width="auto" /><br><br>]]></description>
+    <styleUrl>#icon-1899-0288D1</styleUrl>
+    <ExtendedData>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://doc-08-6s-mymaps.googleusercontent.com/untrusted/hostedimage/7rcfg5upga4u9ufro98u4qsq70/3cagl6fl1q5n4gf3mvtcsfdf5c/1700132762250/AzZLvGYMHIpgBdDEvdoOPRLIHDCyX4Oo/11506214918263242002/5AJ9UNGrJyTq_nqYjcu_PhBEte_oHUt8UggsVat0cIVmAxqb_kcpOT0OzZ-tdywUMk-Lz_Z28FT7Qj_L5_YfSVoc8PdSHk5arOtlrUZJf9M91Ws-D0anJL735wwQrkezllbqixw6hZdJS3fgTw211j7OgJ_OGK44yA-0QGKwHwTSbRb9tjjhHlndamm6uNq2PiwdyPhJEcbYUer_a9QX_4HmcESNm0yZt5Yycdsru_GNbsH-sk7U?session=0&fife]]></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>
+        35.9140518,31.9696514,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Point 3</name>
+    <description>
+      <![CDATA[<img src="https://www.almrsal.com/wp-content/uploads/2019/09/%D8%A3%D8%B3%D9%85%D8%A7%D8%A1-%D8%B9%D9%85%D8%A7%D9%86-%D9%82%D8%AF%D9%8A%D9%85%D8%A7-768x512.jpg" height="200" width="auto" /><br><br>]]></description>
+    <styleUrl>#icon-1899-0288D1</styleUrl>
+    <ExtendedData>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://doc-04-6s-mymaps.googleusercontent.com/untrusted/hostedimage/7rcfg5upga4u9ufro98u4qsq70/3j8cpk6vhahdok3ks7eehi2v1k/1700132762250/AzZLvGYMHIpgBdDEvdoOPRLIHDCyX4Oo/11506214918263242002/5AJ9UNGqMJ8v-gUf0L_V2Zxbc32IlOowsjjAqNW_P91pjKgReHOARM7i1xU_hFSf3RDC6-SMWsjcvQ4pg2mK4beLJJdqzY941VwgL1VYpphA51BHo5_vXK0CSZtGYqXmpShp5i2NvPyaqosmbwgKSvFxBieV0jLjzqZcqZVdYhuk45zQNqHJ9ddMJ35GzHgrORF_IA7HCHtBNh2B6aoazoAtSWqu7FAztuixpmuX--xCuvIxfAvU?session=0&fife]]></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>
+        35.9178498,31.9674124,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Point 4</name>
+    <description><![CDATA[<img src="https://www.rjeem.com/wp-content/uploads/2019/10/157189233177992.jpg" height="200" width="auto" /><br><br>]]></description>
+    <styleUrl>#icon-1899-0288D1</styleUrl>
+    <ExtendedData>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://doc-00-6s-mymaps.googleusercontent.com/untrusted/hostedimage/7rcfg5upga4u9ufro98u4qsq70/8673i19u2c5s5ksuhuqcp2b91c/1700132762250/AzZLvGYMHIpgBdDEvdoOPRLIHDCyX4Oo/11506214918263242002/5AJ9UNGqpcUeMIHGXjCaw2LRK8DPA2Os2X_qtMNIvm7_Gt8Z_ANg2Kvh8WM68URZSdj3_vdLo72Ok4RUD3j_SJfeYryVNgWdj9gIv1oivRfJkfX5xy6r6cVLLnzmvMY-WSDBasGK2HbvXo1I546DuZ-aGXvNuNwFsvJUOflmNTAWubQTZGc9860RCrbbKy5zKrG8v0zH2XTvPTYqbp7Zn8DgtndL_qomUaKZ5RWR3E4nT5EUZYnE?session=0&fife]]></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>
+        35.9120133,31.9718358,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Point 5</name>
+    <description><![CDATA[<img src="https://www.urtrips.com/wp-content/uploads/2017/08/best-hotels-in-amman-jordan.jpg" height="200" width="auto" /><br><br>]]></description>
+    <styleUrl>#icon-1899-0288D1</styleUrl>
+    <ExtendedData>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://doc-0g-6s-mymaps.googleusercontent.com/untrusted/hostedimage/7rcfg5upga4u9ufro98u4qsq70/9gjda6nf5jp45g6p9g991vnq1g/1700132762250/AzZLvGYMHIpgBdDEvdoOPRLIHDCyX4Oo/11506214918263242002/5AJ9UNGp0yumgf4FaNLpJpqNa1wHS9aCyWiz-HjW_Ez_tiHpEbqk1-wLlwqYRYzDZ_6qi5cF5rJz52E9jQafzo1EHKPHs67aG1NLagAyrBA1oqHUKREBp0i_A_NP8-xoQFclOUbxLrfUXaLn3wDgUJE03q0p7m5Q1CLTLZvT7Oda4f7ipP977ZFMVe_Pzo4XnPiJ9ZBBtNOXHPCI3UD0RzEDQefajKJgOhThFEPuvbdEKZm0vUy0?session=0&fife]]></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>
+        35.9088376,31.9690325,0
+      </coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Point 6</name>
+    <description><![CDATA[<img src="https://www.sfari.com/wp-content/uploads/2023/02/%D8%A7%D9%81%D8%B6%D9%84-%D8%A3%D9%86%D8%B4%D8%B7%D8%A9-%D9%81%D9%8A-%D8%A8%D9%88%D9%84%D9%8A%D9%81%D8%A7%D8%B1%D8%AF-%D8%A7%D9%84%D8%B9%D8%A8%D8%AF%D9%84%D9%8A-%D9%81%D9%8A-%D8%B9%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%A7%D8%B1%D8%AF%D9%86.jpg" height="200" width="auto" /><br><br>]]></description>
+    <styleUrl>#icon-1899-0288D1</styleUrl>
+    <ExtendedData>
+      <Data name="gx_media_links">
+        <value><![CDATA[https://doc-0o-6s-mymaps.googleusercontent.com/untrusted/hostedimage/7rcfg5upga4u9ufro98u4qsq70/ojdcfk1nn3b13bf7sd2s73sd7s/1700132762250/AzZLvGYMHIpgBdDEvdoOPRLIHDCyX4Oo/11506214918263242002/5AJ9UNGox7IDCUZ9Ly714a1sVoWe4x05A5HEVWk6fVLkdKDCbTqai8MuCzM4juE7wsJ0lxTNBhTjUkMSJ7X25ELfJaDO6GZZkdJFsPJUsI2EGNTlFPSqhoRb9fnbVbPIqoq0r7wxegTjyD3YvPSe-VShw6mRrIq2oPXkV3fHXgNkHXr7G5JdkB6CTTxYdAYW0H8bEnifAExaVC1GaGVxGtgM5v8aJXVe9DRZrwtPd46JEPwyR1Jw?session=0&fife]]></value>
+      </Data>
+    </ExtendedData>
+    <Point>
+      <coordinates>
+        35.9156182,31.9652097,0
+      </coordinates>
+    </Point>
+  </Placemark>
+</kml>
